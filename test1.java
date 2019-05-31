@@ -13,5 +13,6 @@ class Rextester
 	int a=x+y+z;        
 	int b=x+(y-2)/(2+z);
         System.out.println(" a = " + a + " b = " + b);
-    }
+    
+}
 }
